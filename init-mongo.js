@@ -7,6 +7,5 @@ db.createUser(
             db: "moviedb"
         }, "dbOwner" ],
         mechanisms: [ "SCRAM-SHA-1"],
-
     }
 )
